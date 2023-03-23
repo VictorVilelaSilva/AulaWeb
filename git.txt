@@ -1,10 +1,17 @@
 git clone https://github.com/VictorVilelaSilva/AulaWeb.git
 
+Cria nome da branch nova
 git checkout -b numeroAula
 
 /////////////////////////////////////////////////////
 
+Apos fazer as de vidas alterações
+
+git add .
+
 git commit -m "Subindo Branch AulaX"
+
+git push origin numeroAula
 
 /////////////////////////////////////////////////////
 
@@ -12,3 +19,6 @@ git commit -m "Subindo Branch AulaX"
 
 
 https://blog.betrybe.com/git/git-push/
+
+
+https://linuxhint.com/fix-lf-will-replaced-by-crlf-warning-in-gif/
