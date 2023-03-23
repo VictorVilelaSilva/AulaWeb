@@ -1,0 +1,14 @@
+git clone https://github.com/VictorVilelaSilva/AulaWeb.git
+
+git checkout -b numeroAula
+
+/////////////////////////////////////////////////////
+
+git commit -m "Subindo Branch AulaX"
+
+/////////////////////////////////////////////////////
+
+
+
+
+https://blog.betrybe.com/git/git-push/

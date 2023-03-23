@@ -93,7 +93,8 @@ body{
 }
 
 .cabecalho_menu{
-    
+    display: flex;
+    gap: 80px;
 }
 
 .cabecalho_menu_link{
@@ -101,6 +102,7 @@ body{
     font-size: 24px;
     font-weight: 600;
     color: #22D4FD;
+    text-decoration: none;
     
 }
 
