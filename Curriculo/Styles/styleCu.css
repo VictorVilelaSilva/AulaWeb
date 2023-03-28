@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+fundo{
+    backgroundColor: #202020;
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    /* height: 100vh; */
+    min-height: 100vh;
+    background: radial-gradient(ellipse at bottom, #0d1d31 100%, #0c0d13 100%);
+  }
+
+.apresentacao_Curriculu{
+    display:flex;
+    margin:2% 
+    
+}
+
+.apresentacao_Curriculu_texto{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.apresentacao_Linguangens{
+    display:flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+.texto_curriculo{
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.Texto_cabecalho{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.foto_curriculo {
+    width: 11%;
+    border-radius: 60%;
+    margin-right: 30px;
+}
+
+.apresentacao_Curriculu p{
+    font-size: 30px;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.Linguagens_Icons{
+    width: 15%;
+}
+
+.Linguagens_Icons_css{
+    width: 10;
+    size: 35px;
+}
+
+.Linguagens_Icons_React{
+    width: 100%;
+    size: 35px;
+}
+
+
